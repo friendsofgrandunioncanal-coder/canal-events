@@ -47,7 +47,7 @@
     "date": "2025-10-17",
     "time": "12pm – 2pm",
     "meetingPoint": "The Old Crown, Station Road, Hayes, UB3 4BG",
-    "w3w": "///worker.shovels.complains",
+    "w3w": "worker.shovels.complains",
     "eventbrite": "",
     "ctaText": "Info & Tickets",
     "image": "https://www.spccs1.co.uk/ImageAssets/e8021414f1ca42d49f23bc570546d25c.JPG",
@@ -56,6 +56,7 @@
     "bring": "Gloves, strong footwear, weather-appropriate clothing"
   }
 ]
+
 
 
 
