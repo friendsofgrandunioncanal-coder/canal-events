@@ -1,6 +1,7 @@
 [
   {
-    "title": "Beaver Cleanup – Greenford",
+    "title": "Beaver Cleanup",
+    "area": "- Greenford -",
     "date": "2025-09-27",
     "time": "10:30am – 2:30pm",
     "meetingPoint": "IBM Wooden Bridge (15B)",
@@ -13,7 +14,8 @@
     "bring": "Gloves, strong shoes, weather-appropriate clothing"
   },
   {
-    "title": "Vegetation Tidy-up Greenford",
+    "title": "Vegetation Tidy-up",
+    "area": "- Greenford -",
     "date": "2025-10-11",
     "time": "11am – 2pm",
     "meetingPoint": "Towpath, Greenford",
@@ -26,7 +28,8 @@
     "bring": "Gloves, strong footwear, weather-appropriate clothing"
   },
   {
-    "title": "Mural & Bankside Cleanup – Southall",
+    "title": "Mural & Bankside Cleanup",
+    "area": "- Southall -",
     "date": "2025-10-25",
     "time": "10:30am – 2:30pm",
     "meetingPoint": "Hayes Bridge, Bankside",
@@ -40,5 +43,6 @@
   }
 
 ]
+
 
 
