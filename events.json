@@ -28,19 +28,19 @@
     "bring": "Gloves, strong footwear, weather-appropriate clothing"
   },
   {
-    "title": "🚤 Hillingdon Narrowboats Open Day",
-    "area": "- Harefield -",
-    "date": "2025-10-11",
-    "time": "11am - 3pm",
-    "meetingPoint": "The Boathouse, Summerhouse Lane, Harefield, UB9 6HX",
-    "w3w": "punk.lazy.woke",
-    "eventbrite": "",
-    "ctaText": "Discover More",
-    "image": "https://hna.org.uk/wp-content/uploads/2025/08/HNA-Volunteers-v2.png",
-    "description": "🚤 Explore the heart of Hillingdon Narrowboats Association! Join us for an open day at The Boathouse on Summerhouse Lane. Meet the team, tour our fleet, and learn about our community boating initiatives. All ages welcome!",
-    "perks": "Meet the team, tour the fleet, learn about community boating",
-    "bring": "Curiosity and questions!"
-  },
+  "title": "🚤 Hillingdon Narrowboats Open Day",
+  "area": "- Harefield -",
+  "date": "2025-10-11",
+  "time": "11am - 3pm",
+  "meetingPoint": "The Boathouse, Summerhouse Lane, Harefield, UB9 6HX",
+  "w3w": "punk.lazy.woke",
+  "eventbrite": "",
+  "ctaText": "Discover More",
+  "image": "https://scontent-lhr6-2.xx.fbcdn.net/v/t39.30808-6/472577530_122117114768416288_6552827561078505955_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=105&ccb=1-7&_nc_sid=833d8c&_nc_ohc=deFGcmK7Ft4Q7kNvwGusovJ&_nc_oc=Adlg9UZyOK86ycEfKE9gP3pcbwlGu4I7r_smCS5szsZEPc0isvNvDedtLgUsJhwls-o&_nc_zt=23&_nc_ht=scontent-lhr6-2.xx&_nc_gid=itkxT0QNN3F5jGp2tcVzWg&oh=00_AfbhlXjUZ59fjXYwsODOnJvdFCOM6cJJfYSddnqE1tveWg&oe=68DF8D81",
+  "description": "🚤 Explore the heart of Hillingdon Narrowboats Association! Join us for an open day at The Boathouse on Summerhouse Lane. Meet the team, tour our fleet, and learn about our community boating initiatives. All ages welcome!",
+  "perks": "Meet the team, tour the fleet, learn about community boating",
+  "bring": "Curiosity and questions!"
+},
   {
     "title": "🎨 Bankside Brush & Bin Blitz",
     "area": "- Southall -",
@@ -112,3 +112,4 @@
     "bring": "Notebook and pen if you’d like to take notes ✏️"
   }
 ]
+
