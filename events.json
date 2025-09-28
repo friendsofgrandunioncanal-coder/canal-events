@@ -36,7 +36,7 @@
     "w3w": "punk.lazy.woke",
     "eventbrite": "",
     "ctaText": "Discover More",
-    "image": "https://hnbc.org.uk/files/styles/full_width_1126px/public/stanton3-coventry-2010-IMG_7836.jpg",
+    "image": "https://hna.org.uk/wp-content/uploads/2025/08/HNA-Volunteers-v2.png",
     "description": "🚤 Explore the heart of Hillingdon Narrowboats Association! Join us for an open day at The Boathouse on Summerhouse Lane. Meet the team, tour our fleet, and learn about our community boating initiatives. All ages welcome!",
     "perks": "Meet the team, tour the fleet, learn about community boating",
     "bring": "Curiosity and questions!"
@@ -68,7 +68,47 @@
     "description": "🏰 Clear and Care! Join the <a href='https://www.facebook.com/groups/hillingdonlitterpickers' target='_blank'>Hillingdon Litter Pickers</a> at the Old Crown to clean canal corners, and connect with community champions. Families, first-timers, and canal enthusiasts welcome! 🍃 All gear provided.",
     "perks": "Meet like-minded people, enjoy outdoors, give back 🌞",
     "bring": "Gloves, strong footwear, weather-appropriate clothing 🧤👢"
+  },
+  {
+    "title": "🦡 Willowtree Wombling!",
+    "area": "- Yeading -",
+    "date": "2025-11-08",
+    "time": "11am - 2pm",
+    "meetingPoint": "Willowtree Marina, West Quay Drive, Yeading, Middlesex, UB4 9TA",
+    "w3w": "press.fight.water",
+    "eventbrite": "https://www.eventbrite.co.uk/e/willowtree-wombling-tickets-1751745410679?aff=oddtdtcreator",
+    "ctaText": "Info & Tickets",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/33/Entrance_to_Willowtree_Marina%2C_Paddington_Arm%2C_Grand_Union_Canal_-_geograph.org.uk_-_411020.jpg",
+    "description": "🦡 Embrace your inner Womble and help keep Willow Tree Open Space & towpath to Spikes Bridge sparkling! Gear supplied, meet friends, enjoy fresh air, and make a positive environmental impact. Families, first-timers, and nature lovers welcome! 🍃",
+    "perks": "Meet fellow Hillingdon Litter Pickers, fresh air & community spirit 🌞",
+    "bring": "Gloves, strong footwear, weather-appropriate clothing 🧤👢"
+  },
+  {
+    "title": "❄️ Uxbridge Winter Womble",
+    "area": "- Uxbridge -",
+    "date": "2025-12-13",
+    "time": "11am - 2pm",
+    "meetingPoint": "Uxbridge Canal Towpath, near Brunel University Bridge",
+    "w3w": "jolly.snowy.stream",
+    "eventbrite": "",
+    "ctaText": "Join the Fun",
+    "image": "https://d23iiv8m8qvdxi.cloudfront.net/wp-content/uploads/2016/11/MWA4300.jpg",
+    "description": "❄️ Wrap up warm and join us for the Uxbridge Winter Womble! Help clear litter, tidy the towpath, and make the canal sparkle for the holidays. All equipment provided. Families, first-timers, and local canal champions welcome! 🎄",
+    "perks": "Festive fun, fresh air, and community spirit 🎅",
+    "bring": "Gloves, sturdy footwear, warm clothing 🧤👢"
+  },
+  {
+    "title": "📜 AGM 2026",
+    "area": "- Perivale -",
+    "date": "2026-01-27",
+    "time": "7pm - 9pm",
+    "meetingPoint": "Perivale Library, Horsenden Lane South, Perivale, Greenford, UB6 7NT",
+    "w3w": "hoping.mixed.plot",
+    "eventbrite": "https://www.eventbrite.co.uk/e/willowtree-wombling-tickets-1751745410679?aff=oddtdtcreator",
+    "ctaText": "Info & Tickets",
+    "image": "https://perivalehive.co.uk/wp-content/uploads/2022/10/284594997_10158644267002231_2399514637441596727_n-3.jpg",
+    "description": "📜 Join Friends of the Grand Union Canal for our AGM 2026! Review our year, reveal our plans, and rally your fellow members. All details TBC — agenda and voting info to follow. Connect, celebrate, and contribute to our canal community! 🌟",
+    "perks": "Network with fellow members, hear updates on FoGUC projects 🌞",
+    "bring": "Notebook and pen if you’d like to take notes ✏️"
   }
 ]
-
-
