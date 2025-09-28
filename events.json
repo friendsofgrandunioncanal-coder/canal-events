@@ -3,12 +3,12 @@
     "title": "Beaver Clean Up",
     "area": "- Greenford -",
     "date": "2025-09-27",
-    "time": "10:30am – 2:30pm",
+    "time": "10:30am - 2:30pm",
     "meetingPoint": "IBM Wooden Bridge (15B)",
     "w3w": "values.lakes.bond",
     "eventbrite": "https://www.eventbrite.co.uk/e/beaver-cleanup-greenford-to-perivale-tickets-1666481734729",
     "ctaText": "Info & Tickets",
-    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1116963593%2F2256861099223%2F1%2Foriginal.20250908-002159?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=5.98484848485e-09&fp-y=2.5049834394e-09&s=232860358b8c6236d31b8815ee72b641",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1116963593%2F2256861099223%2F1%2Foriginal.20250908-002159?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10",
     "description": "🌿 Help clear litter along this ecologically sensitive stretch of the Grand Union Canal, heading towards Ballot Box Bridge near Horsenden Farm.",
     "perks": "Free parking at West Cross Park Shopping, kids & pets welcome",
     "bring": "Gloves, strong shoes, weather-appropriate clothing"
@@ -17,7 +17,7 @@
     "title": "Vegetation Tidy Up",
     "area": "- Greenford -",
     "date": "2025-10-11",
-    "time": "11am – 2pm",
+    "time": "11am - 2pm",
     "meetingPoint": "Towpath, Kensington Road Bridge",
     "w3w": "type.enjoyable.ages",
     "eventbrite": "https://www.eventbrite.com/e/vegetation-tidy-up-tickets-1722278213499",
@@ -31,13 +31,13 @@
     "title": "Mural & Bankside Clean Up",
     "area": "- Southall -",
     "date": "2025-10-25",
-    "time": "10:30am – 2:30pm",
+    "time": "10:30am - 2:30pm",
     "meetingPoint": "Hayes Bridge, Bankside",
     "w3w": "fast.fever.like",
     "eventbrite": "https://www.eventbrite.co.uk/e/bankside-canal-clearup-swan-steps-tickets-1671600886249",
     "ctaText": "Info & Tickets",
-    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1116713073%2F2256861099223%2F1%2Foriginal.20250907-164219?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C31%2C1694%2C847&s=82f1a35300c6d29ae1808c0d34794eba",
-    "description": "🌿 Help us remove graffiti and litter along the towpath. We will head towards Parkside Yards where we have complimentary refreshments laid on.",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1116713073%2F2256861099223%2F1%2Foriginal.20250907-164219?w=940&auto=format%2Ccompress&q=75&sharp=10",
+    "description": "🌿 Help remove graffiti and litter along the towpath. We'll head towards Parkside Yards where complimentary refreshments are provided.",
     "perks": "All equipment provided, family-friendly",
     "bring": "Gloves, strong footwear, weather-appropriate clothing"
   },
@@ -45,12 +45,13 @@
     "title": "Old Crown Canal Clear Up",
     "area": "- Hayes -",
     "date": "2025-10-17",
-    "time": "12pm – 2pm",
+    "time": "12pm - 2pm",
     "meetingPoint": "The Old Crown, Station Road, Hayes, UB3 4BG",
     "w3w": "worker.shovels.complains",
+    "eventbrite": null,
     "ctaText": "Info & Tickets",
     "image": "https://www.spccs1.co.uk/ImageAssets/e8021414f1ca42d49f23bc570546d25c.JPG",
-    "description": "🌿 Hillingdon Litter Pickers invite you to meet us at/near The Old Crown Pub Hayes. We will aim to pick up litter from the canal banks in the area.",
+    "description": "🌿 Hillingdon Litter Pickers invite you to meet us at/near The Old Crown Pub Hayes. We'll pick up litter from the canal banks in the area.",
     "perks": "A brilliant way to meet like-minded people.",
     "bring": "Gloves, strong footwear, weather-appropriate clothing"
   },
@@ -58,27 +59,14 @@
     "title": "Willowtree Wombling",
     "area": "- Yeading -",
     "date": "2025-11-08",
-    "time": "11am – 2pm",
+    "time": "11am - 2pm",
     "meetingPoint": "Willowtree Marina, West Quay Drive, Yeading, Middlesex, UB4 9TA",
     "w3w": "press.fight.water",
     "eventbrite": "https://www.eventbrite.co.uk/e/willowtree-wombling-tickets-1751745410679?aff=oddtdtcreator",
     "ctaText": "Info & Tickets",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/3/33/Entrance_to_Willowtree_Marina%2C_Paddington_Arm%2C_Grand_Union_Canal_-_geograph.org.uk_-_411020.jpg?20110204005345",
-    "description": "Embrace your inner womble, help keep Willow Tree Open Space & towpath to Spikes Bridge clean and beautiful. We'll provide all the gear you need to pick up litter and make a difference in our community. Meet new friends, enjoy the fresh air, and make a positive impact on the environment. Let's show some love to our beautiful surroundings together! Don't miss out on this chance to give back and have a great time. See you there!",
-    "perks": "Meet up with our fellow Hillingdon Litter Pickers.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/33/Entrance_to_Willowtree_Marina%2C_Paddington_Arm%2C_Grand_Union_Canal_-_geograph.org.uk_-_411020.jpg",
+    "description": "Embrace your inner womble and help keep Willow Tree Open Space & towpath to Spikes Bridge clean. Gear provided, meet new friends, enjoy the fresh air, and make a positive impact on the environment. Let's show some love to our surroundings!",
+    "perks": "Meet up with fellow Hillingdon Litter Pickers.",
     "bring": "Gloves, strong footwear, weather-appropriate clothing"
   }
 ]
-
-
-
-
-
-
-
-
-
-
-
-
-
