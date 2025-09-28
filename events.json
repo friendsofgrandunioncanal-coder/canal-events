@@ -38,7 +38,7 @@
   "eventbrite": "https://www.eventbrite.co.uk/e/bankside-canal-clearup-swan-steps-tickets-1671600886249",
   "ctaText": "Info & Tickets",
   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1116713073%2F2256861099223%2F1%2Foriginal.20250907-164219?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C31%2C1694%2C847&s=82f1a35300c6d29ae1808c0d34794eba",
-  "description": "🎨 Brush, Bin, and Beautify! Join us along the towpath to sweep away litter, tackle graffiti, and brighten up Bankside. We'll head towards <a href='https://parksideyards.co.uk/'  where complimentary refreshments are provided. Families, first-timers, and community champions welcome!",
+  "description": "🎨 Brush, Bin, and Beautify! Join us along the towpath to sweep away litter, tackle graffiti, and brighten up Bankside. We'll head towards <a href='https://parksideyards.co.uk/' target='_blank'>Parkside Yards</a> where complimentary refreshments are provided. Families, first-timers, and community champions welcome!",
   "perks": "All equipment provided, family-friendly, fun & fresh air 🌞",
   "bring": "Gloves, strong footwear, weather-appropriate clothing 🧤👢"
 },
@@ -99,6 +99,7 @@
     "bring": "Notebook and pen if you’d like to take notes ✏️"
   }
 ]
+
 
 
 
