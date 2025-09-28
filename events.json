@@ -15,20 +15,19 @@
     "bring": "Gloves, strong shoes, weather-appropriate clothing"
   },
   {
-    "title": "Vegetation Tidy Up",
-    "area": "- Greenford -",
-    "date": "2025-10-11",
-    "time": "11am - 2pm",
-    "meetingPoint": "Towpath, Kensington Road Bridge",
-    "w3w": "type.enjoyable.ages",
-    "eventbrite": "https://www.eventbrite.com/e/vegetation-tidy-up-tickets-1722278213499",
-    "ctaText": "Info & Tickets",
-    "image": "https://i.imgur.com/9OJHPSL.png",
-    "imageFallback": "https://d23iiv8m8qvdxi.cloudfront.net/wp-content/uploads/2016/11/MWA4300.jpg",
-    "description": "🌿 Join us cutting back vegetation to keep the towpath safe and enjoyable for everyone.",
-    "perks": "All equipment supplied, family-friendly, fresh air & teamwork outdoors",
-    "bring": "Gloves, strong footwear, weather-appropriate clothing"
-  },
+  "title": "🌱 Greenford Growth Groom 🌿",
+  "area": "- Greenford -",
+  "date": "2025-10-11",
+  "time": "11am - 2pm",
+  "meetingPoint": "Towpath, Kensington Road Bridge",
+  "w3w": "type.enjoyable.ages",
+  "eventbrite": "https://www.eventbrite.com/e/vegetation-tidy-up-tickets-1722278213499",
+  "ctaText": "Info & Tickets",
+  "image": "https://i.imgur.com/9OJHPSL.png",
+  "description": "🌿 Roll up your sleeves for the Greenford Growth Groom! Help nurture and tidy the towpath greenery while enjoying fresh air, community spirit, and the beauty of nature. Perfect for all ages, bring friends or make new ones as we care for our local environment together. 🍃",
+  "perks": "All equipment supplied, family-friendly, fresh air & teamwork outdoors 🌞",
+  "bring": "Gloves, strong footwear, weather-appropriate clothing 🧤👢"
+},
   {
     "title": "Mural & Bankside Clean Up",
     "area": "- Southall -",
@@ -90,5 +89,6 @@
     "bring": "Notebook and pen if you’d like to take notes"
   }
 ]
+
 
 
