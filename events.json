@@ -14,19 +14,20 @@
     "bring": "Gloves, strong footwear, weather-appropriate clothing 🧤👢"
   },
   {
-    "title": "🌱 Greenford Growth Groom 🌿",
-    "area": "- Greenford -",
-    "date": "2025-10-11",
-    "time": "11am - 2pm",
-    "meetingPoint": "Towpath, Kensington Road Bridge",
-    "w3w": "type.enjoyable.ages",
-    "eventbrite": "https://www.eventbrite.com/e/vegetation-tidy-up-tickets-1722278213499",
-    "ctaText": "Info & Tickets",
-    "image": "https://i.imgur.com/9OJHPSL.png",
-    "description": "🌿 Dig, prune, and polish the path at our Greenford Growth Groom! Join this family-friendly fun fest to cut back creeping vegetation, clear the canal corridor, and connect with community champions. All tools provided — just bring sturdy shoes, gloves if you have them, and dress for the weather. Perfect for families, first-time volunteers, and nature enthusiasts alike! 🍃",
-    "perks": "All equipment supplied, family-friendly, fresh air & teamwork outdoors 🌞",
-    "bring": "Gloves, strong footwear, weather-appropriate clothing 🧤👢"
-  },
+  "title": "🚤 Hillingdon Narrowboats Open Day",
+  "area": "- Harefield -",
+  "date": "2025-10-11",
+  "time": "11am - 3pm",
+  "meetingPoint": "The Boathouse, Summerhouse Lane, Harefield, UB9 6HX",
+  "w3w": "///punk.lazy.woke",
+  "w3wHref": "https://what3words.com/punk.lazy.woke",
+  "eventbrite": "",
+  "ctaText": "Discover More",
+  "image": "https://hna.org.uk/wp-content/uploads/2025/08/HNA-Volunteers-v2.png",
+  "description": "🚤 Explore the heart of Hillingdon Narrowboats Association! Join us for an open day at The Boathouse on Summerhouse Lane. Meet the team, tour our fleet, and learn about our community boating initiatives. All ages welcome!",
+  "perks": "Meet the team, tour the fleet, learn about community boating",
+  "bring": "Curiosity and questions!"
+},
   {
   "title": "🎨 Bankside Brush & Bin Blitz",
   "area": "- Southall -",
@@ -112,6 +113,7 @@
     "bring": "Notebook and pen if you’d like to take notes ✏️"
   }
 ]
+
 
 
 
