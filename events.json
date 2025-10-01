@@ -51,7 +51,7 @@
     "eventbrite": "",
     "ctaText": "Info & Tickets",
     "image": "https://www.spccs1.co.uk/ImageAssets/e8021414f1ca42d49f23bc570546d25c.JPG",
-    "description": "🏰 Clear and Care! Join the <a href='https://www.facebook.com/groups/hillingdonlitterpickers' target='_blank'>Hillingdon Litter Pickers</a> at the Old Crown to clean canal corners, and connect with community champions. Families, first-timers, and canal enthusiasts welcome! 🍃 All gear provided.",
+    "description": "🏰 Clear and Care! Join the <a href=\"https://www.facebook.com/groups/hillingdonlitterpickers\" target=\"_blank\">Hillingdon Litter Pickers</a> at the Old Crown to clean canal corners, and connect with community champions. Families, first-timers, and canal enthusiasts welcome! 🍃 All gear provided.",
     "perks": "Meet like-minded people, enjoy outdoors, give back 🌞",
     "bring": "Gloves, strong footwear, weather-appropriate clothing 🧤👢"
   },
@@ -82,33 +82,5 @@
     "description": "❄️ Wrap up warm and join us for the Uxbridge Winter Womble! Help clear litter, tidy the towpath, and make the canal sparkle for the holidays. All equipment provided. Families, first-timers, and local canal champions welcome! 🎄",
     "perks": "Festive fun, fresh air, and community spirit 🎅",
     "bring": "Gloves, sturdy footwear, warm clothing 🧤👢"
-  },
-  {
-    "title": "📜 AGM 2026",
-    "area": "- Perivale -",
-    "date": "2026-01-27",
-    "time": "7pm - 9pm",
-    "meetingPoint": "Perivale Library, Horsenden Lane South, Perivale, Greenford, UB6 7NT",
-    "w3w": "hoping.mixed.plot",
-    "eventbrite": "https://www.eventbrite.co.uk/e/willowtree-wombling-tickets-1751745410679?aff=oddtdtcreator",
-    "ctaText": "Info & Tickets",
-    "image": "https://perivalehive.co.uk/wp-content/uploads/2022/10/284594997_10158644267002231_2399514637441596727_n-3.jpg",
-    "description": "📜 Join Friends of the Grand Union Canal for our AGM 2026! Review our year, reveal our plans, and rally your fellow members. All details TBC — agenda and voting info to follow. Connect, celebrate, and contribute to our canal community! 🌟",
-    "perks": "Network with fellow members, hear updates on FoGUC projects 🌞",
-    "bring": "Notebook and pen if you’d like to take notes ✏️"
-  },
-  {
-    "title": "🦫 Piggery Bridge to Ballot Box Cleanup",
-    "area": "- Greenford -",
-    "date": "2025-10-18",
-    "time": "10:30am - 2:30pm",
-    "meetingPoint": "Piggery Bridges, Greenford",
-    "w3w": "clean.water.path",
-    "eventbrite": "",
-    "ctaText": "Join the Cleanup",
-    "image": "https://www.geograph.org.uk/photo/931837",
-    "description": "🦫 Join us for the Piggery Bridges to Ballot Box cleanup! We'll clear litter, tidy towpaths, and enjoy fresh air along the canal. Families, first-time volunteers, and nature lovers welcome! 🍃 More info at <a href='https://horsenden.org/' target='_blank'>Horsenden.org</a>.",
-    "perks": "All equipment supplied, family-friendly, fresh air & community spirit 🌞",
-    "bring": "Gloves, strong footwear, weather-appropriate clothing 🧤👢"
   }
 ]
