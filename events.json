@@ -28,19 +28,19 @@
     "bring": "Gloves, strong footwear, weather-appropriate clothing"
   },
   {
-  "title": "🚤 Hillingdon Narrowboats Open Day",
-  "area": "- Harefield -",
-  "date": "2025-10-11",
-  "time": "11am - 3pm",
-  "meetingPoint": "The Boathouse, Summerhouse Lane, Harefield, UB9 6HX",
-  "w3w": "punk.lazy.woke",
-  "eventbrite": "",
-  "ctaText": "Discover More",
-  "image": "https://scontent-lhr6-2.xx.fbcdn.net/v/t39.30808-6/472577530_122117114768416288_6552827561078505955_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=105&ccb=1-7&_nc_sid=833d8c&_nc_ohc=deFGcmK7Ft4Q7kNvwGusovJ&_nc_oc=Adlg9UZyOK86ycEfKE9gP3pcbwlGu4I7r_smCS5szsZEPc0isvNvDedtLgUsJhwls-o&_nc_zt=23&_nc_ht=scontent-lhr6-2.xx&_nc_gid=itkxT0QNN3F5jGp2tcVzWg&oh=00_AfbhlXjUZ59fjXYwsODOnJvdFCOM6cJJfYSddnqE1tveWg&oe=68DF8D81",
-  "description": "🚤 Explore the heart of Hillingdon Narrowboats Association! Join us for an open day at The Boathouse on Summerhouse Lane. Meet the team, tour our fleet, and learn about our community boating initiatives. All ages welcome!",
-  "perks": "Meet the team, tour the fleet, learn about community boating",
-  "bring": "Curiosity and questions!"
-},
+    "title": "🚤 Hillingdon Narrowboats Open Day",
+    "area": "- Harefield -",
+    "date": "2025-10-11",
+    "time": "11am - 3pm",
+    "meetingPoint": "The Boathouse, Summerhouse Lane, Harefield, UB9 6HX",
+    "w3w": "punk.lazy.woke",
+    "eventbrite": "",
+    "ctaText": "Discover More",
+    "image": "https://scontent-lhr6-2.xx.fbcdn.net/v/t39.30808-6/472577530_122117114768416288_6552827561078505955_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=105&ccb=1-7&_nc_sid=833d8c&_nc_ohc=deFGcmK7Ft4Q7kNvwGusovJ&_nc_oc=Adlg9UZyOK86ycEfKE9gP3pcbwlGu4I7r_smCS5szsZEPc0isvNvDedtLgUsJhwls-o&_nc_zt=23&_nc_ht=scontent-lhr6-2.xx&_nc_gid=itkxT0QNN3F5jGp2tcVzWg&oh=00_AfbhlXjUZ59fjXYwsODOnJvdFCOM6cJJfYSddnqE1tveWg&oe=68DF8D81",
+    "description": "🚤 Explore the heart of Hillingdon Narrowboats Association! Join us for an open day at The Boathouse on Summerhouse Lane. Meet the team, tour our fleet, and learn about our community boating initiatives. All ages welcome!",
+    "perks": "Meet the team, tour the fleet, learn about community boating",
+    "bring": "Curiosity and questions!"
+  },
   {
     "title": "🏰 Old Crown Canal Cleanup",
     "area": "- Hayes -",
@@ -48,7 +48,7 @@
     "time": "12pm - 2pm",
     "meetingPoint": "The Old Crown, Station Road, Hayes, UB3 4BG",
     "w3w": "worker.shovels.complains",
-    "eventbrite": null,
+    "eventbrite": "",
     "ctaText": "Info & Tickets",
     "image": "https://www.spccs1.co.uk/ImageAssets/e8021414f1ca42d49f23bc570546d25c.JPG",
     "description": "🏰 Clear and Care! Join the <a href='https://www.facebook.com/groups/hillingdonlitterpickers' target='_blank'>Hillingdon Litter Pickers</a> at the Old Crown to clean canal corners, and connect with community champions. Families, first-timers, and canal enthusiasts welcome! 🍃 All gear provided.",
@@ -98,19 +98,17 @@
     "bring": "Notebook and pen if you’d like to take notes ✏️"
   },
   {
-  "title": "🦫 Piggery Bridge to Ballot Box Cleanup",
-  "area": "- Greenford -",
-  "date": "2025-10-18",
-  "time": "10:30am - 2:30pm",
-  "meetingPoint": "Piggery Bridges, Greenford",
-  "w3w": "clean.water.path",
-  "eventbrite": "",
-  "ctaText": "Join the Cleanup",
-  "image": "https://www.geograph.org.uk/photo/931837",
-  "description": "🦫 Join us for the Piggery Bridges to Ballot Box cleanup! We'll clear litter, tidy towpaths, and enjoy fresh air along the canal. Families, first-time volunteers, and nature lovers welcome! 🍃 More info at <a href='https://horsenden.org/' target='_blank'>Horsenden.org</a>.",
-  "perks": "All equipment supplied, family-friendly, fresh air & community spirit 🌞",
-  "bring": "Gloves, strong footwear, weather-appropriate clothing 🧤👢"
-}
+    "title": "🦫 Piggery Bridge to Ballot Box Cleanup",
+    "area": "- Greenford -",
+    "date": "2025-10-18",
+    "time": "10:30am - 2:30pm",
+    "meetingPoint": "Piggery Bridges, Greenford",
+    "w3w": "clean.water.path",
+    "eventbrite": "",
+    "ctaText": "Join the Cleanup",
+    "image": "https://www.geograph.org.uk/photo/931837",
+    "description": "🦫 Join us for the Piggery Bridges to Ballot Box cleanup! We'll clear litter, tidy towpaths, and enjoy fresh air along the canal. Families, first-time volunteers, and nature lovers welcome! 🍃 More info at <a href='https://horsenden.org/' target='_blank'>Horsenden.org</a>.",
+    "perks": "All equipment supplied, family-friendly, fresh air & community spirit 🌞",
+    "bring": "Gloves, strong footwear, weather-appropriate clothing 🧤👢"
+  }
 ]
-
-
