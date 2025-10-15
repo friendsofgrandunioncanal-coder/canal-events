@@ -64,7 +64,7 @@
     "w3w": "press.fight.water",
     "eventbrite": "https://www.eventbrite.co.uk/e/willowtree-wombling-tickets-1751745410679?aff=oddtdtcreator",
     "ctaText": "Info & Tickets",
-    "image"https://github.com/friendsofgrandunioncanal-coder/canal-events/blob/8fa6088f1058e3048a54391567893a7c10600364/willowtree.jpg",
+    "image": https://github.com/friendsofgrandunioncanal-coder/canal-events/blob/8fa6088f1058e3048a54391567893a7c10600364/willowtree.jpg",
     "description": "🦡 Embrace your inner Womble and help keep Willow Tree Open Space & towpath to Spikes Bridge sparkling! Gear supplied, meet friends, enjoy fresh air, and make a positive environmental impact. Families, first-timers, and nature lovers welcome! 🍃",
     "perks": "Meet fellow Hillingdon Litter Pickers, fresh air & community spirit 🌞",
     "bring": "Gloves, strong footwear, weather-appropriate clothing 🧤👢"
@@ -83,6 +83,7 @@
     "bring": "Gloves, strong footwear, weather-appropriate clothing 🧤👢"
   }
 ]
+
 
 
 
