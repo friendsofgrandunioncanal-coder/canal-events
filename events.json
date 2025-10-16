@@ -22,7 +22,7 @@
     "w3w": "type.enjoyable.ages",
     "eventbrite": "https://www.eventbrite.com/e/vegetation-tidy-up-tickets-1722278213499",
     "ctaText": "Info & Tickets",
-    "image": "https://github.com/friendsofgrandunioncanal-coder/canal-events/blob/main/cdn.evbuc.com_images_1130064543_2256861099223_1_original.jpeg?raw=true",
+    "image": "https://github.com/friendsofgrandunioncanal-coder/canal-events/blob/main/HeaderImages/Vegetation.jpeg?raw=true",
     "description": "🌿 Join us for Greenford Growth Groom! We'll cut back overgrown vegetation, keeping the towpath safe, open, and welcoming. All equipment provided, just wear sturdy shoes and gloves. Families, first-time volunteers, and nature lovers welcome! 🍃",
     "perks": "All equipment supplied, family-friendly, fresh air & teamwork outdoors",
     "bring": "Gloves, strong footwear, weather-appropriate clothing"
@@ -64,7 +64,7 @@
     "w3w": "press.fight.water",
     "eventbrite": "https://www.eventbrite.co.uk/e/willowtree-wombling-tickets-1751745410679?aff=oddtdtcreator",
     "ctaText": "Info & Tickets",
-    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1154027643%2F2256861099223%2F1%2Foriginal.20251015-155513?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=761ac4fb7718897088320edfc567c7fc",
+    "image": "https://github.com/friendsofgrandunioncanal-coder/canal-events/blob/main/HeaderImages/Willowtree.jpg?raw=true",
     "description": "🦡 Embrace your inner Womble and help keep Willow Tree Open Space & towpath to Spikes Bridge sparkling! Gear supplied, meet friends, enjoy fresh air, and make a positive environmental impact. Families, first-timers, and nature lovers welcome! 🍃",
     "perks": "Meet fellow Hillingdon Litter Pickers, fresh air & community spirit 🌞",
     "bring": "Gloves, strong footwear, weather-appropriate clothing 🧤👢"
@@ -89,13 +89,19 @@
   "time": "19:00 - 21:00",
   "meetingPoint": "Grand Union Community Hub, 1 Quay Walk, Wembley, HA0 1DY",
   "w3w": "rent.pack.composers",
-  "image": "https://github.com/friendsofgrandunioncanal-coder/canal-events/blob/main/Grand%20Union%20Community%20Hub.png?raw=true",
+  "image": "https://github.com/friendsofgrandunioncanal-coder/canal-events/blob/main/HeaderImages/Grand%20Union%20Community%20Hub.png?raw=true",
   "description": "Join us for the Friends of Grand Union Canal Annual General Meeting. Review our past year, discuss plans for the community, and meet fellow canal supporters. All members welcome.",
   "perks": "Networking with volunteers, refreshments available ☕",
   "bring": "Note-taking materials"
 }
 
 ]
+
+
+
+
+
+
 
 
 
