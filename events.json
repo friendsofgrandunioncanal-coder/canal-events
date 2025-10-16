@@ -89,13 +89,14 @@
   "time": "19:00 - 21:00",
   "meetingPoint": "Grand Union Community Hub, 1 Quay Walk, Wembley, HA0 1DY",
   "w3w": "rent.pack.composers",
-  "image": "HeaderImages/Grand Union Community Hub.png",
+  "image": "https://github.com/friendsofgrandunioncanal-coder/canal-events/blob/0c96e6442d897bfbfc8b959668001cba938a6710/HeaderImages/Grand%20Union%20Community%20Hub.png",
   "description": "Join us for the Friends of Grand Union Canal Annual General Meeting. Review our past year, discuss plans for the community, and meet fellow canal supporters. All members welcome.",
   "perks": "Networking with volunteers, refreshments available ☕",
   "bring": "Note-taking materials"
 }
 
 ]
+
 
 
 
