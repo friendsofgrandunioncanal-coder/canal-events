@@ -9,7 +9,7 @@
     "eventbrite": "https://www.eventbrite.co.uk/e/old-crown-canal-cleanup-tickets-1841591262039",
     "ctaText": "Info & Tickets",
     "image": "https://github.com/friendsofgrandunioncanal-coder/canal-events/blob/main/HeaderImages/The%20Old%20Crown,%20Hayes.jpeg?raw=true",
-    "description": "🏰 Clear and Care! Join the <a href=\"https://www.facebook.com/groups/hillingdonlitterpickers\" target=\"_blank\">Hillingdon Litter Pickers</a> at the Old Crown to clean up canal corners and connect with community champions. Families, first-timers, and canal enthusiasts welcome! 🍃 All gear provided."
+    "description": "🏰 Clear and Care! Join the <a href=\"https://www.facebook.com/groups/hillingdonlitterpickers\" target=\"_blank\">Hillingdon Litter Pickers</a> at the Old Crown to clean up canal corners and connect with community champions. Families, first-timers, and canal enthusiasts welcome! 🍃 All gear provided.",
     "perks": "Meet like-minded people, enjoy outdoors, give back 🌞",
     "bring": "Gloves, strong footwear, weather-appropriate clothing 🧤👢"
   },
@@ -83,7 +83,8 @@
     "perks": "Meet fellow Hillingdon Litter Pickers, fresh air & community spirit 🌞",
     "bring": "Gloves, strong footwear, weather-appropriate clothing 🧤👢"
   },
-  {    "title": "🎨 Bankside Brush & Bin Blitz",
+  {
+    "title": "🎨 Bankside Brush & Bin Blitz",
     "area": "- Southall -",
     "date": "2025-10-25",
     "time": "10:30am - 2:30pm",
@@ -97,40 +98,16 @@
     "bring": "Gloves, strong footwear, weather-appropriate clothing 🧤👢"
   },
   {
-  "title": "FoGUC AGM 2026 (TBC)",
-  "area": "- Wembley -",
-  "date": "2026-01-27 (TBC)",
-  "time": "19:00 - 21:00",
-  "meetingPoint": "Grand Union Community Hub, 1 Quay Walk, Wembley, HA0 1DY",
-  "w3w": "rent.pack.composers",
-  "image": "https://github.com/friendsofgrandunioncanal-coder/canal-events/blob/main/HeaderImages/Grand%20Union%20Community%20Hub.png?raw=true",
-  "description": "Join us for the Friends of Grand Union Canal Annual General Meeting. Review our past year, discuss plans for the community, and meet fellow canal supporters. All members welcome.",
-  "perks": "Networking with volunteers, refreshments available ☕",
-  "bring": "Note-taking materials"
-}
-
+    "title": "FoGUC AGM 2026 (TBC)",
+    "area": "- Wembley -",
+    "date": "2026-01-27 (TBC)",
+    "time": "19:00 - 21:00",
+    "meetingPoint": "Grand Union Community Hub, 1 Quay Walk, Wembley, HA0 1DY",
+    "w3w": "rent.pack.composers",
+    "image": "https://github.com/friendsofgrandunioncanal-coder/canal-events/blob/main/HeaderImages/Grand%20Union%20Community%20Hub.png?raw=true",
+    "description": "Join us for the Friends of Grand Union Canal Annual General Meeting. Review our past year, discuss plans for the community, and meet fellow canal supporters. All members welcome.",
+    "perks": "Networking with volunteers, refreshments available ☕",
+    "bring": "Note-taking materials"
+  }
 ]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
