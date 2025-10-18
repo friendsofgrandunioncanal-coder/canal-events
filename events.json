@@ -50,7 +50,7 @@
     "w3w": "punk.lazy.woke",
     "eventbrite": "",
     "ctaText": "Discover More",
-    "image": "https://github.com/friendsofgrandunioncanal-coder/canal-events/blob/main/HeaderImages/Hillingdon%20Narrowboats.png",
+    "image": "https://github.com/friendsofgrandunioncanal-coder/canal-events/blob/main/HeaderImages/Hillingdon%20Narrowboats.png?raw=true",
     "description": "🚤 Explore the heart of Hillingdon Narrowboats Association! Join us for an open day at The Boathouse on Summerhouse Lane. Meet the team, tour our fleet, and learn about our community boating initiatives. All ages welcome!",
     "perks": "Meet the team, tour the fleet, learn about community boating",
     "bring": "Curiosity and questions!"
@@ -110,5 +110,6 @@
     "bring": "Note-taking materials"
   }
 ]
+
 
 
