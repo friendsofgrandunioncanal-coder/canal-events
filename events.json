@@ -1,18 +1,18 @@
 [
   {
-  "title": "243 Ealing Road!",
-  "area": "- Alperton -",
-  "date": "2025-11-02",
-  "time": "10:30am - 12:30pm",
-  "meetingPoint": "Venice House, 243 Ealing Road, Alperton, HA0 1QL",
-  "w3w": "TBA",
-  "eventbrite": "https://www.eventbrite.co.uk/e/old-crown-canal-cleanup-tickets-1841591262039",
-  "ctaText": "Info & Tickets",
-  "image": "https://github.com/friendsofgrandunioncanal-coder/canal-events/blob/main/HeaderImages/Venice%20House%20Alperton.jpeg?raw=true",
-  "description": "dhdh",
-  "perks": "Meet like-minded people, enjoy outdoors, give back 🌞",
-  "bring": "Gloves, strong footwear, weather-appropriate clothing 🧤👢"
-}
+    "title": "243 Ealing Road!",
+    "area": "- Alperton -",
+    "date": "2025-11-02",
+    "time": "10:30am - 12:30pm",
+    "meetingPoint": "Venice House, 243 Ealing Road, Alperton, HA0 1QL",
+    "w3w": "TBA",
+    "eventbrite": "https://www.eventbrite.co.uk/e/old-crown-canal-cleanup-tickets-1841591262039",
+    "ctaText": "Info & Tickets",
+    "image": "https://github.com/friendsofgrandunioncanal-coder/canal-events/blob/main/HeaderImages/Venice%20House%20Alperton.jpeg?raw=true",
+    "description": "Join us at Venice House for a morning of autumn canal cleanup! 🍂 Help gather litter, clear overgrown areas, and make our local waterways sparkle. Families, first-time volunteers, and experienced canal enthusiasts are all welcome. All equipment provided — just bring your energy and enthusiasm!",
+    "perks": "Meet like-minded people, enjoy the outdoors, give back 🌞",
+    "bring": "Gloves, sturdy footwear, weather-appropriate clothing 🧤👢"
+  },
   {
     "title": "🏰 Old Crown Canal Cleanup!",
     "area": "- Hayes -",
@@ -65,7 +65,7 @@
     "eventbrite": "",
     "ctaText": "Discover More",
     "image": "https://github.com/friendsofgrandunioncanal-coder/canal-events/blob/main/HeaderImages/Hillingdon%20Narrowboats.png?raw=true",
-    "description": "🚤 Explore the heart of Hillingdon Narrowboats Association! Join us for an open day at The Boathouse on Summerhouse Lane. Meet the team, tour our fleet, and learn about our community boating initiatives. All ages welcome!",
+    "description": "🚤 Explore the heart of Hillingdon Narrowboats Association! Join us for an open day at The Boathouse on Summerhouse Lane. Meet the team, tour our fleet, and learn about our community boating initiatives. All ages welcome.",
     "perks": "Meet the team, tour the fleet, learn about community boating",
     "bring": "Curiosity and questions!"
   },
@@ -124,14 +124,3 @@
     "bring": "Note-taking materials"
   }
 ]
-
-
-
-
-
-
-
-
-
-
-
