@@ -2,82 +2,92 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Welcome to Friends of Grand Union Canal</title>
+<style>
+  body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #003366;
+    color: #172d46;
+  }
+  .container {
+    width: 100%;
+    padding: 16px;
+    box-sizing: border-box;
+  }
+  .card {
+    max-width: 600px;
+    margin: 0 auto;
+    background: #ffffff;
+    border-radius: 12px;
+    border: 3px solid #172d46;
+    padding: 24px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+    text-align: center;
+  }
+  .logo {
+    width: 140px;
+    margin-bottom: 16px;
+  }
+  h1 {
+    font-size: 22px;
+    color: #172d46;
+    margin: 0 0 16px 0;
+    font-weight: bold;
+  }
+  p {
+    font-size: 15px;
+    line-height: 1.5;
+    margin: 8px 0;
+  }
+  .btn {
+    display: inline-block;
+    margin: 6px;
+    padding: 12px 20px;
+    border-radius: 8px;
+    font-weight: bold;
+    text-decoration: none;
+    color: #fff;
+    min-width: 120px;
+  }
+  .btn-blue { background: #007acc; }
+  .btn-green { background: #28a745; }
+  .btn-facebook { background: #3b5998; font-weight: normal; }
+  .btn-instagram { background: #e1306c; font-weight: normal; }
+  .footer {
+    font-size: 12px;
+    color: #999999;
+    margin-top: 20px;
+  }
+</style>
 </head>
-<body style="margin:0; font-family:Arial,sans-serif; background:#003366;">
+<body>
+  <div class="container">
+    <div class="card">
+      <img src="https://raw.githubusercontent.com/friendsofgrandunioncanal-coder/canal-events/main/logos/FoGUC_Logo.png" alt="FoGUC Logo" class="logo">
 
-<!-- Container -->
-<table width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#003366" style="padding:16px;">
-  <tr>
-    <td align="center">
+      <h1>Welcome to Friends of Grand Union Canal, {{firstName}}!</h1>
 
-      <!-- Card (Portrait) -->
-      <table width="100%" style="max-width: 400px;" cellpadding="0" cellspacing="0" border="0" bgcolor="#ffffff" 
-             style="border-radius:12px; padding:24px; color:#222; border:3px solid #172d46;">
-        <!-- Logo -->
-        <tr>
-          <td style="text-align:center; padding-bottom:16px;">
-            <img src="https://raw.githubusercontent.com/friendsofgrandunioncanal-coder/canal-events/main/logos/FoGUC_Logo.png" width="120" alt="FoGUC Logo" style="display:block; margin:0 auto;">
-          </td>
-        </tr>
+      <p>We’re thrilled to have you join our community of volunteers. Every litter pick and canal-side event makes a real difference!</p>
 
-        <!-- Welcome Title -->
-        <tr>
-          <td style="text-align:center; padding:0 0 16px 0;">
-            <h1 style="font-size:22px; color:#172d46; margin:0; font-weight:bold;">
-              Welcome to Friends of Grand Union Canal, {{firstName}}!
-            </h1>
-          </td>
-        </tr>
+      <div>
+        <a href="https://www.friendsofgrandunioncanal.co.uk" class="btn btn-blue">Website</a>
+        <a href="https://www.eventbrite.co.uk/o/friends-of-grand-union-canal-91635961783" class="btn btn-green">Eventbrite</a>
+        <a href="https://www.facebook.com/groups/FriendsOfGrandUnionCanal" class="btn btn-facebook">Facebook</a>
+        <a href="https://www.instagram.com/friendsofgrandunioncanal/" class="btn btn-instagram">Instagram</a>
+      </div>
 
-        <!-- Intro text -->
-        <tr>
-          <td style="font-size:14px; line-height:1.6; padding-bottom:16px; text-align:center; color:#172d46;">
-            We’re thrilled to have you join our community of volunteers. Every litter pick and canal-side event makes a real difference!
-          </td>
-        </tr>
+      <p>We work closely with the Canal & River Trust, Hillingdon Litter Pickers, and local community groups to keep the canal clean and safe.</p>
 
-        <!-- Buttons -->
-        <tr>
-          <td style="text-align:center; padding-bottom:16px;">
-            <a href="https://www.friendsofgrandunioncanal.co.uk" style="display:inline-block; width:90%; max-width:200px; margin:4px; padding:10px 0; background:#007acc; color:#fff; text-decoration:none; border-radius:6px; font-weight:bold;">Website</a>
-            <a href="https://www.eventbrite.co.uk/o/friends-of-grand-union-canal-91635961783" style="display:inline-block; width:90%; max-width:200px; margin:4px; padding:10px 0; background:#28a745; color:#fff; text-decoration:none; border-radius:6px; font-weight:bold;">Eventbrite</a>
-            <a href="https://www.facebook.com/groups/FriendsOfGrandUnionCanal" style="display:inline-block; width:90%; max-width:200px; margin:4px; padding:10px 0; background:#3b5998; color:#fff; text-decoration:none; border-radius:6px; font-weight:bold;">Facebook</a>
-            <a href="https://www.instagram.com/friendsofgrandunioncanal/" style="display:inline-block; width:90%; max-width:200px; margin:4px; padding:10px 0; background:#e1306c; color:#fff; text-decoration:none; border-radius:6px; font-weight:bold;">Instagram</a>
-          </td>
-        </tr>
+      <p>Kind regards,<br>
+      Liz Henderson<br>
+      Secretary, Friends of Grand Union Canal</p>
 
-        <!-- Community note -->
-        <tr>
-          <td style="font-size:14px; line-height:1.5; padding-bottom:16px; color:#172d46;">
-            We work closely with the Canal & River Trust, Hillingdon Litter Pickers, and local community groups to keep the canal clean and safe.
-          </td>
-        </tr>
-
-        <!-- Closing -->
-        <tr>
-          <td style="padding-top:8px; font-weight:bold; color:#172d46;">
-            Kind regards,<br>
-            Liz Henderson<br>
-            Secretary, Friends of Grand Union Canal
-          </td>
-        </tr>
-
-        <!-- Footer -->
-        <tr>
-          <td style="text-align:center; color:#aaaaaa; font-size:12px; padding-top:16px;">
-            Made with ❤️ by Friends of Grand Union Canal
-          </td>
-        </tr>
-
-      </table>
-      <!-- End Card -->
-
-    </td>
-  </tr>
-</table>
-<!-- End Container -->
-
+      <div class="footer">
+        Made with ❤️ by Friends of Grand Union Canal
+      </div>
+    </div>
+  </div>
 </body>
 </html>
