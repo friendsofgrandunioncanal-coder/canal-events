@@ -5,7 +5,7 @@
     "date": "2025-11-02",
     "time": "10:30am - 12:30pm",
     "meetingPoint": "Venice House, 243 Ealing Road, Alperton, HA0 1QL",
-    "w3w": "TBA",
+    "w3w": "///remote.planet.doing",
     "eventbrite": "https://www.eventbrite.co.uk/e/243-ealing-road-autumn-canal-cleanup-tickets-1848290840659",
     "ctaText": "Info & Tickets",
     "image": "https://github.com/friendsofgrandunioncanal-coder/canal-events/blob/main/HeaderImages/Venice%20House%20Alperton.jpeg?raw=true",
@@ -124,6 +124,7 @@
     "bring": "Note-taking materials"
   }
 ]
+
 
 
 
