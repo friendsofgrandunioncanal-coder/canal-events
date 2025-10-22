@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Friends of Grand Union Canal - Stay in Touch</title>
+<style>
+  body { font-family: Arial, sans-serif; margin:0; padding:0; background:#e6f0fa; color:#1a3f6c; }
+  .container { max-width:600px; margin:20px auto; background:#ffffff; border:4px solid #1a3f6c; border-radius:12px; padding:25px; box-shadow:0 6px 12px rgba(0,0,0,0.1); }
+  .logo { display:block; margin:0 auto 20px auto; max-width:160px; }
+  .title { text-align:center; font-size:24px; font-weight:bold; margin-bottom:15px; color:#1a3f6c; }
+  .intro { font-size:15px; line-height:1.6; margin-bottom:25px; text-align:center; }
+  .section-title { font-size:20px; font-weight:bold; margin:25px 0 15px 0; text-align:center; color:#1a3f6c; }
+  .event-card { border-radius:12px; overflow:hidden; margin-bottom:25px; text-align:center; }
+  .event-card img { width:100%; display:block; object-fit:cover; border-radius:12px 12px 0 0; margin-bottom:15px; }
+  .event-info { padding:15px; }
+  .event-title { font-size:18px; font-weight:bold; margin:0 0 5px 0; color:#1a3f6c; }
+  .event-details { font-size:14px; margin-bottom:15px; color:#555; }
+  .button { display:inline-block; padding:12px 22px; background:#1a3f6c; color:white; text-decoration:none; border-radius:6px; font-weight:bold; font-size:15px; transition:background 0.3s; margin-top:10px; text-align:center; }
+  .button:hover { background:#145289; }
+  .qr-section { text-align:center; margin:20px 0; }
+  .qr-section img { width:140px; height:140px; display:block; margin:0 auto 10px auto; }
+  .qr-text { font-size:14px; color:#1a3f6c; margin-top:4px; }
+  .footer { text-align:center; margin-top:30px; font-size:12px; color:#555; }
+  .footer-icons { margin-top:15px; text-align:center; }
+  .footer-icons a { display:inline-block; margin:0 6px; text-decoration:none; color:#1a3f6c; }
+  .footer-icons img { width:40px; height:40px; border-radius:50%; border:2px solid #1a3f6c; padding:4px; background:white; display:block; margin:0 auto; }
+</style>
+</head>
+<body>
+  <div class="container">
+    <img class="logo" src="https://friendsofgrandunioncanal-coder.github.io/foguc-assets/FoGUC_Logo.png" alt="FoGUC Logo">
+    
+    <div class="title">Keeping in Touch with Friends of Grand Union Canal</div>
+    <p class="intro">
+      Thanks for signing up! We share news, events, and volunteer opportunities along the Grand Union Canal. Stay tuned for our latest activities and ways to get involved.
+    </p>
+
+    <div class="section-title">Our Next Event</div>
+    <div class="event-card">
+      <div class="event-info">
+        <div class="event-title">${nextEvent.title}</div>
+        <div class="event-details">${nextEvent.date} | ${nextEvent.area}</div>
+      </div>
+      <img src="${nextEvent.image}" alt="${nextEvent.title}">
+      <a class="button" href="https://www.friendsofgrandunioncanal.co.uk/Events" target="_blank">See All Our Events</a>
+    </div>
+
+    <div class="section-title">Keep in Touch</div>
+    <div class="qr-section">
+      <a href="https://www.friendsofgrandunioncanal.co.uk/keep-in-touch" target="_blank">
+        <img src="https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https://www.friendsofgrandunioncanal.co.uk/keep-in-touch" alt="Scan QR to Keep in Touch">
+      </a>
+      <div class="qr-text">Scan to sign up on your phone</div>
+    </div>
+
+    <div class="section-title">Stay Connected</div>
+    <div class="footer-icons">
+      <a href="https://www.friendsofgrandunioncanal.co.uk" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/104/104531.png" alt="Website">
+      </a>
+      <a href="https://www.facebook.com/groups/FriendsOfGrandUnionCanal" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/124/124010.png" alt="Facebook">
+      </a>
+      <a href="https://www.instagram.com/friendsofgrandunioncanal/" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram">
+      </a>
+    </div>
+
+    <div class="footer">
+      &copy; ${new Date().getFullYear()} Friends of Grand Union Canal. All rights reserved.
+    </div>
+  </div>
+</body>
+</html>
