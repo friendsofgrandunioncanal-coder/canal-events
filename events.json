@@ -1,16 +1,16 @@
 [
   {
-    "title": "FoGUC AGM 2026 (TBC)",
-    "area": "- Wembley -",
-    "date": "2026-01-27 (TBC)",
-    "time": "19:00 - 21:00",
-    "meetingPoint": "Grand Union Community Hub, 1 Quay Walk, Wembley, HA0 1DY",
-    "w3w": "rent.pack.composers",
-    "image": "https://friendsofgrandunioncanal-coder.github.io/canal-events/HeaderImages/GrandUnionCommunityHub.png",
-    "description": "Join us for the Friends of Grand Union Canal Annual General Meeting. Review our past year, discuss plans for the community, and meet fellow canal supporters. All members welcome.",
-    "perks": "Networking with volunteers, refreshments available ☕",
-    "bring": "Note-taking materials"
-  },
+  "title": "FoGUC AGM 2026",
+  "area": "- Wembley -",
+  "date": "2026-01-27",
+  "time": "19:00 - 21:00",
+  "meetingPoint": "Grand Union Marketing Suite, Beresford Road, Wembley, HA0 1NW",
+  "w3w": "rent.pack.composers",
+  "image": "https://friendsofgrandunioncanal-coder.github.io/canal-events/HeaderImages/GrandUnionCommunityHub.png",
+  "description": "Join us for the Friends of Grand Union Canal Annual General Meeting — an evening to reflect on our achievements, share ideas for the year ahead, and connect with fellow canal supporters. Everyone is welcome!",
+  "perks": "Meet volunteers and community members, refreshments available ☕, on-site parking 🅿️ (charges may apply)",
+  "bring": "Note-taking materials or questions you'd like to raise"
+}
   {
     "title": "🏰 Old Crown Canal Cleanup!",
     "area": "- Hayes -",
@@ -124,3 +124,4 @@
     "bring": "Gloves, strong footwear, weather-appropriate clothing 🧤👢"
   }
 ]
+
