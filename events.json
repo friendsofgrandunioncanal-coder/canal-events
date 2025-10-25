@@ -8,7 +8,7 @@
     "w3w": "///remote.planet.doing",
     "eventbrite": "https://www.eventbrite.co.uk/e/243-ealing-road-autumn-canal-cleanup-tickets-1848290840659",
     "ctaText": "Info & Tickets",
-    "image": "https://github.com/friendsofgrandunioncanal-coder/canal-events/blob/main/HeaderImages/Venice%20House%20Alperton.jpeg?raw=true",
+    "image": "https://github.com/friendsofgrandunioncanal-coder/canal-events/blob/main/HeaderImages/VeniceHouseAlperton.jpeg?raw=true",
     "description": "Join the 243 Ealing Road crew at Venice House for a morning of autumn canal cleanup! 🍂 Help gather litter, clear overgrown areas, and make our local waterways sparkle. Families, first-time volunteers, and experienced canal enthusiasts are all welcome. All equipment provided — just bring your energy and enthusiasm!",
     "perks": "Meet like-minded people, enjoy the outdoors, give back 🌞",
     "bring": "Gloves, sturdy footwear, weather-appropriate clothing 🧤👢"
@@ -22,7 +22,7 @@
     "w3w": "worker.shovels.complains",
     "eventbrite": "https://www.eventbrite.co.uk/e/old-crown-canal-cleanup-tickets-1841591262039",
     "ctaText": "Info & Tickets",
-    "image": "https://github.com/friendsofgrandunioncanal-coder/canal-events/blob/main/HeaderImages/The%20Old%20Crown,%20Hayes.jpeg?raw=true",
+    "image": "https://github.com/friendsofgrandunioncanal-coder/canal-events/blob/main/HeaderImages/TheOldCrownHayes.jpeg?raw=true",
     "description": "🏰 Clear and Care! Join the <a href=\"https://www.facebook.com/groups/hillingdonlitterpickers\" target=\"_blank\">Hillingdon Litter Pickers</a> at the Old Crown to clean up canal corners and connect with community champions. Families, first-timers, and canal enthusiasts welcome! 🍃 All gear provided.",
     "perks": "Meet like-minded people, enjoy outdoors, give back 🌞",
     "bring": "Gloves, strong footwear, weather-appropriate clothing 🧤👢"
@@ -64,7 +64,7 @@
     "w3w": "punk.lazy.woke",
     "eventbrite": "",
     "ctaText": "Discover More",
-    "image": "https://github.com/friendsofgrandunioncanal-coder/canal-events/blob/main/HeaderImages/Hillingdon%20Narrowboats.png?raw=true",
+    "image": "https://github.com/friendsofgrandunioncanal-coder/canal-events/blob/main/HeaderImages/HillingdonNarrowboats.png?raw=true",
     "description": "🚤 Explore the heart of Hillingdon Narrowboats Association! Join us for an open day at The Boathouse on Summerhouse Lane. Meet the team, tour our fleet, and learn about our community boating initiatives. All ages welcome.",
     "perks": "Meet the team, tour the fleet, learn about community boating",
     "bring": "Curiosity and questions!"
@@ -118,12 +118,13 @@
     "time": "19:00 - 21:00",
     "meetingPoint": "Grand Union Community Hub, 1 Quay Walk, Wembley, HA0 1DY",
     "w3w": "rent.pack.composers",
-    "image": "https://github.com/friendsofgrandunioncanal-coder/canal-events/blob/main/HeaderImages/Grand%20Union%20Community%20Hub.png?raw=true",
+    "image": "https://github.com/friendsofgrandunioncanal-coder/canal-events/blob/main/HeaderImages/GrandUnionCommunity%20Hub.png?raw=true",
     "description": "Join us for the Friends of Grand Union Canal Annual General Meeting. Review our past year, discuss plans for the community, and meet fellow canal supporters. All members welcome.",
     "perks": "Networking with volunteers, refreshments available ☕",
     "bring": "Note-taking materials"
   }
 ]
+
 
 
 
