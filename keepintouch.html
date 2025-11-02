@@ -1,0 +1,330 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Keep in Touch – Friends of Grand Union Canal</title>
+<style>
+body {
+  background-color: #172c45;
+  font-family: "Segoe UI", Roboto, sans-serif;
+  color: #172c45;
+  margin: 0;
+  padding: 0;
+}
+
+/* Main form area */
+.foguc-form {
+  max-width: 440px;
+  margin: 4rem auto 3rem;
+  background: #ffffff;
+  border: 2px solid #0072b1;
+  border-radius: 18px;
+  padding: 2rem 2.2rem;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.25);
+  text-align: center;
+}
+.foguc-form img.logo {
+  width: 110px;
+  margin-bottom: 1rem;
+}
+h1 {
+  color: #172c45;
+  font-size: 1.6rem;
+  margin-bottom: 0.4rem;
+}
+h2 {
+  color: #0072b1;
+  font-size: 1.05rem;
+  font-weight: normal;
+  margin-bottom: 1.3rem;
+}
+label {
+  display: block;
+  margin-top: 0.8rem;
+  text-align: left;
+  font-weight: 600;
+  color: #172c45;
+}
+input[type="text"], input[type="email"] {
+  width: 100%;
+  padding: 0.6rem 0.75rem;
+  border: 1px solid #a5c5e8;
+  border-radius: 8px;
+  font-size: 1rem;
+  margin-top: 0.3rem;
+  box-sizing: border-box;
+  transition: border-color 0.2s, box-shadow 0.2s;
+}
+input[type="text"]:focus, input[type="email"]:focus {
+  border-color: #0072b1;
+  box-shadow: 0 0 4px rgba(0, 114, 177, 0.3);
+  outline: none;
+}
+input[type="checkbox"] {
+  margin-right: 0.5rem;
+}
+button {
+  background: linear-gradient(to right, #0072b1, #0094c9);
+  color: #ffffff;
+  font-size: 1rem;
+  font-weight: 600;
+  border: none;
+  border-radius: 8px;
+  padding: 0.8rem 1rem;
+  width: 100%;
+  margin-top: 1.5rem;
+  cursor: pointer;
+  transition: transform 0.2s, background 0.3s;
+}
+button:hover {
+  background: linear-gradient(to right, #0080c8, #00a0e0);
+  transform: translateY(-2px);
+}
+
+/* Footer */
+.footer-note {
+  font-size: 0.85rem;
+  color: #4b637e;
+  margin-top: 1.3rem;
+  line-height: 1.4;
+  text-align: center;
+}
+.heart {
+  display: inline-block;
+  animation: pulse 1.6s ease-in-out infinite;
+  transform-origin: center;
+}
+@keyframes pulse {
+  0%, 100% { transform: scale(1); opacity: 1; }
+  50% { transform: scale(1.2); opacity: 0.85; }
+}
+
+/* QR section */
+.qr-container {
+  margin-bottom: 1.6rem;
+}
+
+.qr-card {
+  background: #f8fbff;
+  border: 2px solid #172c45;
+  border-radius: 14px;
+  padding: 1rem 1rem 1.3rem;
+  box-shadow: 0 3px 8px rgba(0, 0, 0, 0.15);
+  display: inline-block;
+  text-align: center;
+  transition: box-shadow 0.3s ease;
+}
+
+.qr-caption {
+  font-size: 0.95rem;
+  color: #172c45;
+  margin: 0 0 0.8rem;
+  line-height: 1.4;
+}
+
+.qr-code {
+  width: 160px;
+  height: 160px;
+  border-radius: 10px;
+  border: 2px solid #172c45;
+  background: #fff;
+  padding: 6px;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.qr-code:hover {
+  transform: scale(1.03);
+  box-shadow: 0 4px 10px rgba(23, 44, 69, 0.3);
+}
+
+/* Larger QR and subtle glow for mobile use */
+@media (max-width: 600px) {
+  .qr-code {
+    width: 220px;
+    height: 220px;
+    box-shadow: 0 0 12px rgba(23, 44, 69, 0.5);
+    animation: softGlow 2.5s ease-in-out infinite alternate;
+  }
+  .qr-card {
+    padding: 1.2rem 1rem 1.6rem;
+  }
+  .qr-caption {
+    font-size: 1rem;
+  }
+}
+
+@keyframes softGlow {
+  from { box-shadow: 0 0 8px rgba(23, 44, 69, 0.4); }
+  to { box-shadow: 0 0 18px rgba(23, 44, 69, 0.7); }
+}
+
+/* Spinner */
+.spinner-overlay {
+  position: fixed;
+  top: 0; left: 0;
+  width: 100%; height: 100%;
+  background: rgba(255, 255, 255, 0.85);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+}
+.spinner {
+  border: 4px solid #d9e2f0;
+  border-top: 4px solid #0072b1;
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+  animation: spin 1s linear infinite;
+}
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+/* Popup */
+.popup {
+  position: fixed;
+  top: 0; left: 0;
+  width: 100%; height: 100%;
+  background: rgba(0, 0, 0, 0.5);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1001;
+}
+.popup-content {
+  background: #ffffff;
+  padding: 1.8rem 2rem;
+  border-radius: 14px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.25);
+  text-align: center;
+  color: #004080;
+  max-width: 320px;
+  animation: fadeIn 0.3s ease-in-out;
+}
+.popup-content img {
+  width: 80px;
+  margin-bottom: 0.7rem;
+}
+.popup-content h3 {
+  margin-top: 0;
+  font-size: 1.3rem;
+}
+.popup-content p {
+  font-size: 0.95rem;
+  color: #172d46;
+}
+.popup-content button {
+  margin-top: 1rem;
+  background: #0072b1;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  padding: 0.6rem 1.2rem;
+  cursor: pointer;
+}
+.popup-content button:hover {
+  background: #0094c9;
+}
+@keyframes fadeIn {
+  from { opacity: 0; transform: scale(0.9); }
+  to { opacity: 1; transform: scale(1); }
+}
+</style>
+</head>
+<body>
+
+<form id="signupForm" class="foguc-form">
+  <img class="logo" src="https://friendsofgrandunioncanal-coder.github.io/foguc-assets/FoGUC_Logo.png" alt="FoGUC Logo">
+
+  <h1>Let’s Stay Connected!</h1>
+  <h2>Join our mailing list for friendly updates on canal news, clean-ups, and events.</h2>
+
+  <div class="qr-container">
+    <div class="qr-card">
+      <p class="qr-caption">
+        <strong>Prefer using your phone?</strong><br>
+        Scan this QR code to open the same sign-up form on your mobile.
+      </p>
+      <a href="https://www.friendsofgrandunioncanal.co.uk/keep-in-touch" target="_blank">
+        <img
+          class="qr-code"
+          src="https://friendsofgrandunioncanal-coder.github.io/canal-events/QR/FoGUC_QR_KeepinTouch.png"
+          alt="QR code to FoGUC Keep in Touch form">
+      </a>
+    </div>
+  </div>
+
+  <label for="firstName">First Name</label>
+  <input type="text" id="firstName" name="firstName" required>
+
+  <label for="lastName">Last Name</label>
+  <input type="text" id="lastName" name="lastName" required>
+
+  <label for="email">Email Address</label>
+  <input type="email" id="email" name="email" required>
+
+  <label style="margin-top:1rem;">
+    <input type="checkbox" id="consent" name="consent" value="Yes" required>
+    I’d like to receive updates about FoGUC activities.
+  </label>
+
+  <button type="submit">Keep Me Posted</button>
+
+  <p class="footer-note">
+    Made with <span class="heart">❤️</span> by Friends of Grand Union Canal.
+  </p>
+</form>
+
+<script>
+document.getElementById('signupForm').addEventListener('submit', async e => {
+  e.preventDefault();
+  const form = e.target;
+
+  const spinnerOverlay = document.createElement('div');
+  spinnerOverlay.className = 'spinner-overlay';
+  spinnerOverlay.innerHTML = '<div class="spinner"></div>';
+  document.body.appendChild(spinnerOverlay);
+
+  const data = {
+    firstName: form.firstName.value,
+    lastName: form.lastName.value,
+    email: form.email.value,
+    consent: form.consent.checked ? 'Yes' : 'No'
+  };
+
+  try {
+    await fetch('https://script.google.com/macros/s/AKfycbx9McPnLgLsLOGglFf1nCurYmNEi4BgCgDM3k71sZnT3dgw3JA25ukWFHfceFSJR7npbQ/exec', {
+      method: 'POST',
+      mode: 'no-cors',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(data)
+    });
+
+    form.reset();
+    spinnerOverlay.remove();
+
+    const popup = document.createElement('div');
+    popup.className = 'popup';
+    popup.innerHTML = `
+      <div class="popup-content">
+        <img src="https://friendsofgrandunioncanal-coder.github.io/foguc-assets/FoGUC_Logo.png" alt="FoGUC Logo">
+        <h3>Thank you!</h3>
+        <p>You’re now on our list — we’ll keep you updated on local events and how to get involved.</p>
+        <button id="closePopup">Close</button>
+      </div>
+    `;
+    document.body.appendChild(popup);
+    document.getElementById('closePopup').addEventListener('click', () => popup.remove());
+
+  } catch (err) {
+    spinnerOverlay.remove();
+    alert('There was a problem submitting your form. Please try again later.');
+    console.error(err);
+  }
+});
+</script>
+</body>
+</html>
