@@ -137,17 +137,16 @@
     "perks": "Meet volunteers and local supporters, refreshments available ☕, on-site parking 🅿️ (charges may apply)",
     "bring": "Note-taking materials or questions you'd like to raise"
   },
-{
-  "title": "🤝 Hayes Canal Festival",
-  "area": "- Hayes -",
-  "date": "2026-07-26",
-  "time": "12:00 - 17:00",
-  "meetingPoint": "High Point Village, Hayes",
-  "w3w": "report.bells.horn",
-  "image": "https://friendsofgrandunioncanal-coder.github.io/canal-events/HeaderImages/GrandUnionCommunityHub.png",
-  "description": "🎉 Celebrate the waterways at the Hayes Canal Festival! Enjoy community stalls, family activities, local groups, and canal-themed fun along the Grand Union. A relaxed and friendly day out for all ages by the waterside. 🌊",
-  "perks": "Family-friendly activities, community stalls, info from local groups, refreshments available ☕",
-  "bring": "Comfortable shoes, water, and enthusiasm for canal-side fun!"
-}
+  {
+    "title": "🤝 Hayes Canal Festival",
+    "area": "- Hayes -",
+    "date": "2026-07-26",
+    "time": "12:00 - 17:00",
+    "meetingPoint": "High Point Village, Hayes",
+    "w3w": "report.bells.horn",
+    "image": "https://friendsofgrandunioncanal-coder.github.io/canal-events/HeaderImages/GrandUnionCommunityHub.png",
+    "description": "🎉 Celebrate the waterways at the Hayes Canal Festival! Enjoy community stalls, family activities, local groups, and canal-themed fun along the Grand Union. A relaxed and friendly day out for all ages by the waterside. 🌊",
+    "perks": "Family-friendly activities, community stalls, info from local groups, refreshments available ☕",
+    "bring": "Comfortable shoes, water, and enthusiasm for canal-side fun!"
+  }
 ]
-
