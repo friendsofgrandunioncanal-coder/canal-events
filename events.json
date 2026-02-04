@@ -174,7 +174,7 @@
     "w3w": "///films.doll.swim",
     "eventbrite": "https://www.eventbrite.co.uk/e/tbc",
     "ctaText": "Info & Tickets",
-    "image": "https://drive.google.com/file/d/1JcEY0jDFVTmhgcevhoQvmqtaG6RjMHLg/view?usp=drive_link",
+    "image": "https://drive.google.com/file/d/1JcEY0jDFVTmhgcevhoQvmqtaG6RjMHLg/view",
     "description": "🏰 Come and join our celebration litter pick with Cllr Anthony Kelly the Mayor of Ealing! We are delighted that he will present our volunteers with a civic award as thanks for their canalside litter picking efforts in the Borough over many years. Local residents and families, first-timers, and canal enthusiasts are all welcome to join in! Litter picking equipment will be provided.",
     "perks": "Meet the Mayor and friendly community volunteers, do your bit for the environment - and maybe get your face in the papers! 🌞",
     "bring": "Gloves, strong footwear, weather-appropriate clothing 🧤👢"
@@ -192,6 +192,7 @@
     "bring": "Comfortable shoes, water, and enthusiasm for canal-side fun!"
   }
 ]
+
 
 
 
