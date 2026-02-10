@@ -166,6 +166,20 @@
     "bring": "Gloves, strong footwear, weather-appropriate clothing 🧤👢"
   },
   {
+    "title": "Test Event Only",
+    "area": "The Universe",
+    "date": "2026-02-11",
+    "time": "10am - 12pm",
+    "meetingPoint": "In Space",
+    "w3w": "///films.doll.swim",
+    "eventbrite": "https://www.eventbrite.co.uk/e/1982371348066",
+    "ctaText": "Info & Tickets",
+    "image": "https://friendsofgrandunioncanal-coder.github.io/canal-events/HeaderImages/GreenfordPickWithBoat.jpg",
+    "description": "Test Test Test",
+    "perks": "Nove!",
+    "bring": "Gloves, strong footwear, weather-appropriate clothing 🧤👢"
+  },
+  {
     "title": " 🌳Go Greenford!🌳 Celebration Litter Pick and Award Presentation with the Mayor of Ealing",
     "area": "- Greenford -",
     "date": "2026-02-25",
@@ -192,6 +206,7 @@
     "bring": "Comfortable shoes, water, and enthusiasm for canal-side fun!"
   }
 ]
+
 
 
 
