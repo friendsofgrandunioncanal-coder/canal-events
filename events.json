@@ -95,21 +95,21 @@
     "perks": "Meet the Mayor and friendly community volunteers, do your bit for the environment - and maybe get your face in the papers! 🌞",
     "bring": "Gloves, strong footwear, weather-appropriate clothing 🧤👢"
   },
-  {
-    "title": "🏰 April Old Crown Canal Cleanup!",
-    "area": "- Hayes -",
-    "date": "2026-04-10",
-    "time": "12pm - 2pm",
-    "meetingPoint": "The Old Crown, Station Road, Hayes, UB3 4BG",
-    "w3w": "worker.shovels.complains",
-    "eventbrite": "https://www.eventbrite.co.uk/e/1984794688342",
-    "ctaText": "Info & Tickets",
-    "image": "https://friendsofgrandunioncanal-coder.github.io/canal-events/HeaderImages/TheOldCrownHayes.jpeg",
-    "description": "🏰 Clear and Care! Join the <a href=\"https://www.facebook.com/groups/hillingdonlitterpickers\" target=\"_blank\">Hillingdon Litter Pickers</a> at the <a href=\"https://www.craftunionpubs.com/old-crown-hayes?utm_source=gmb&utm_medium=organic&utm_campaign=homepage\" target=\"_blank\">Old Crown</a> for a friendly community canal cleanup in Hayes. Families, first-timers, and canal enthusiasts are all welcome! 🍃 The pub proudly raises money for Hillingdon Litter Pickers and offers volunteers a <strong>free first drink after the event</strong> — a perfect way to celebrate a good deed! 🍻 All gear provided.",
-    "perks": "Free first drink at the Old Crown, support local causes, meet community volunteers 🌞",
-    "bring": "Gloves, strong footwear, weather-appropriate clothing 🧤👢"
-  },
  {
+    "title": "🌿 Great British Spring Clean at Alperton 🌿",
+    "area": "- Alperton -",
+    "date": "2026-03-18",
+    "time": "10:30 - 14:30",
+    "meetingPoint": "360 Ealing Road, HA0 1PF",
+    "w3w": "lift.longer.bunk",
+    "eventbrite": "https://volunteer.canalrivertrust.org.uk/opportunities/towpath-team-volunteer-great-british-spring-clean-alperton-2026-02-13",
+    "ctaText": "Info & Tickets",
+    "image": "https://friendsofgrandunioncanal-coder.github.io/canal-events/HeaderImages/VeniceHouseAlperton.jpeg",
+    "description": "🌿 The 'Great British Spring Clean' is a fantastic opportunity to get outside in the fresh air and help clean up your local community. Join us and the Canal & River Trust in tackling this litter hotspot to give the area a lift. All tools and equipment will be provided, together with expert and friendly support. All under 16's need to be accompanied by an adult. This is a great way to meet other local volunteers and spend a few hours outdoors improving your local waterway environment. If possible, please sign up to let us know you plan on coming along. 🍃",
+    "perks": "All equipment supplied, family-friendly, fresh air & teamwork outdoors",
+    "bring": "Please wear old clothes appropriate for the weather conditions (e.g. waterproof jacket, warm layers) and sturdy footwear ideally boots or wellies"
+  },
+   {
     "title": "🌿 Great British Spring Clean at Greenford Quay 🌿",
     "area": "- Greenford -",
     "date": "2026-03-25",
@@ -122,6 +122,20 @@
     "description": "🌿 The 'Great British Spring Clean' is a fantastic opportunity to get outside in the fresh air and help clean up your local community. Join us and the Canal & River Trust in tackling this litter hotspot to give the area a lift. All tools and equipment will be provided, together with expert and friendly support. All under 16's need to be accompanied by an adult. This is a great way to meet other local volunteers and spend a few hours outdoors improving your local waterway environment. If possible, please sign up to let us know you plan on coming along. 🍃",
     "perks": "All equipment supplied, family-friendly, fresh air & teamwork outdoors",
     "bring": "Please wear old clothes appropriate for the weather conditions (e.g. waterproof jacket, warm layers) and sturdy footwear ideally boots or wellies"
+  },
+ {
+    "title": "🏰 April Old Crown Canal Cleanup!",
+    "area": "- Hayes -",
+    "date": "2026-04-10",
+    "time": "12pm - 2pm",
+    "meetingPoint": "The Old Crown, Station Road, Hayes, UB3 4BG",
+    "w3w": "worker.shovels.complains",
+    "eventbrite": "https://www.eventbrite.co.uk/e/1984794688342",
+    "ctaText": "Info & Tickets",
+    "image": "https://friendsofgrandunioncanal-coder.github.io/canal-events/HeaderImages/TheOldCrownHayes.jpeg",
+    "description": "🏰 Clear and Care! Join the <a href=\"https://www.facebook.com/groups/hillingdonlitterpickers\" target=\"_blank\">Hillingdon Litter Pickers</a> at the <a href=\"https://www.craftunionpubs.com/old-crown-hayes?utm_source=gmb&utm_medium=organic&utm_campaign=homepage\" target=\"_blank\">Old Crown</a> for a friendly community canal cleanup in Hayes. Families, first-timers, and canal enthusiasts are all welcome! 🍃 The pub proudly raises money for Hillingdon Litter Pickers and offers volunteers a <strong>free first drink after the event</strong> — a perfect way to celebrate a good deed! 🍻 All gear provided.",
+    "perks": "Free first drink at the Old Crown, support local causes, meet community volunteers 🌞",
+    "bring": "Gloves, strong footwear, weather-appropriate clothing 🧤👢"
   },
   {
     "title": "🦡 Willowtree Wombling for National Nature Day!",
@@ -150,6 +164,7 @@
     "bring": "Comfortable shoes, water, and enthusiasm for canal-side fun!"
   }
 ]
+
 
 
 
