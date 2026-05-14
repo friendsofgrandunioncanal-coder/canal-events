@@ -137,21 +137,7 @@
     "perks": "All equipment supplied, family-friendly, fresh air & teamwork outdoors",
     "bring": "Please wear old clothes appropriate for the weather (e.g. waterproof jacket, warm layers) and sturdy footwear ideally boots or wellies"
 },
- {
-    "title": "🏰 May Old Crown Canal Cleanup!",
-    "area": "- Hayes -",
-    "date": "2026-05-01",
-    "time": "12pm - 2pm",
-    "meetingPoint": "The Old Crown, Station Road, Hayes, UB3 4BG",
-    "w3w": "worker.shovels.complains",
-    "eventbrite": "https://www.eventbrite.co.uk/e/1987629111177",
-    "ctaText": "Info & Tickets",
-    "image": "https://friendsofgrandunioncanal-coder.github.io/canal-events/HeaderImages/TheOldCrownHayes.jpeg",
-    "description": "🏰 Clear and Care! Join the <a href=\"https://www.facebook.com/groups/hillingdonlitterpickers\" target=\"_blank\">Hillingdon Litter Pickers</a> at the <a href=\"https://www.craftunionpubs.com/old-crown-hayes?utm_source=gmb&utm_medium=organic&utm_campaign=homepage\" target=\"_blank\">Old Crown</a> for a friendly community canal cleanup in Hayes. Families, first-timers, and canal enthusiasts are all welcome! 🍃 The pub proudly raises money for Hillingdon Litter Pickers and offers volunteers a <strong>free first drink after the event</strong> — a perfect way to celebrate a good deed! 🍻 All gear provided.",
-    "perks": "Free first drink at the Old Crown, support local causes, meet community volunteers 🌞",
-    "bring": "Gloves, strong footwear, weather-appropriate clothing 🧤👢"
-  },
-  {
+{
     "title": "🦡 Willowtree Wombling for National Nature Day!",
     "area": "- Yeading -",
     "date": "2026-04-18",
@@ -178,6 +164,20 @@
     "description": "🦡 Come and meet us at the first Greenford Quay Eats & Beats Sustainability Market of 2026! We'll have a stall promoting the canalside and the need to look after it, with a bunch of fun activities for all the family. The events starts Friday eve (24th), but we'll be there from <b>midday onwards on Saturday 25th</b>. There's lots of other activities, music and plenty of yummy eats - click the link and grab a free ticket!🍃",
     "perks": "Meet new friends, enjoy the fresh air, fun activities for all, amazing food 🌞",
     "bring": "Your enthusiasm!"
+  },
+  {
+    "title": "🏰 Late May Old Crown Canal Cleanup!",
+    "area": "- Hayes -",
+    "date": "2026-05-29",
+    "time": "12pm - 2pm",
+    "meetingPoint": "The Old Crown, Station Road, Hayes, UB3 4BG",
+    "w3w": "worker.shovels.complains",
+    "eventbrite": "https://www.eventbrite.co.uk/e/late-may-old-crown-canal-cleanup-free-tickets-1989462588156?aff=oddtdtcreator",
+    "ctaText": "Info & Tickets",
+    "image": "https://friendsofgrandunioncanal-coder.github.io/canal-events/HeaderImages/TheOldCrownHayes.jpeg",
+    "description": "🏰 Clear and Care! Join the <a href=\"https://www.facebook.com/groups/hillingdonlitterpickers\" target=\"_blank\">Hillingdon Litter Pickers</a> at the <a href=\"https://www.craftunionpubs.com/old-crown-hayes?utm_source=gmb&utm_medium=organic&utm_campaign=homepage\" target=\"_blank\">Old Crown</a> for a friendly community canal cleanup in Hayes. Families, first-timers, and canal enthusiasts are all welcome! 🍃 The pub proudly raises money for Hillingdon Litter Pickers and offers volunteers a <strong>free first drink after the event</strong> — a perfect way to celebrate a good deed! 🍻 All gear provided.",
+    "perks": "Free first drink at the Old Crown, support local causes, meet community volunteers 🌞",
+    "bring": "Gloves, strong footwear, weather-appropriate clothing 🧤👢"
   },
   {
     "title": "🤝 Hayes Canal Festival",
