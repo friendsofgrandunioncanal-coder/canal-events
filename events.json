@@ -47,9 +47,21 @@
     "meetingPoint": "High Point Village, Hayes",
     "w3w": "report.bells.horn",
     "image": "https://friendsofgrandunioncanal-coder.github.io/canal-events/HeaderImages/HayesCanalFestival.jpg",
-    "description": "🎉 Celebrate the waterways at the Hayes Canal Festival! Enjoy community stalls, family activities, local groups, and canal-themed fun along the Grand Union. A relaxed and friendly day out for all ages by the waterside. 🌊",
+    "description": "🎉 Celebrate the waterways at the Hayes Canal Festival! Enjoy community stalls, family activities, local groups, and canal-themed fun along the Grand Union. We'll have our stall promoting the canalside and the need to look after it, with a bunch of fun activities including a competition. A relaxed and friendly day out for all ages by the waterside. 🌊",
     "perks": "Family-friendly activities, community stalls, info from local groups, refreshments available ☕",
     "bring": "Comfortable shoes, water, and enthusiasm for canal-side fun!"
+  },
+ {
+    "title": "Parkside Yards Summer Fun Day",
+    "area": "- Southall -",
+    "date": "2026-08-01",
+    "time": "11:00 - 18:00",
+    "meetingPoint": "Parkside Yards at The Green Quarter, UB1 1GH",
+    "w3w": "slope.cable.stops",
+    "image": "https://friendsofgrandunioncanal-coder.github.io/canal-events/HeaderImages/ParksideCommunityEvent.jpg",
+    "description": "A popular event that promises a great day out for all the family! Come and check out our stall promoting the canalside and the need to look after it, with fun games and competitions. Entry is free, and guests will enjoy activities including fairground stalls, face painting and arts & crafts. A BMX bike show will provide the entertainment, along with music throughout the day, while refreshments will include everything from candyfloss through to a (make-your-own) smoothie bike! Parkside Markets will also be trading on the day, offering a range of lifestyle products from some fantastic independent businesses.",
+    "perks": "Family-friendly activities, community stalls, info from local groups, refreshments available ☕",
+    "bring": "Comfortable shoes, water, and enthusiasm!"
   },
   {
     "title": "🚮 Joint Litter Pick with Who Is Hussain 🚮",
